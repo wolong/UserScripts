@@ -9,7 +9,7 @@
 
 function YTFunc() {
     try {
-    	document.getElementById('linode1024.4').checked = true;
+    	document.getElementById('linode2048.4').checked = true;
         document.getElementById('DatacenterID').value = 8;
         document.getElementById('signup').submit()
     }
